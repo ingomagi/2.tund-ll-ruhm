@@ -27,3 +27,13 @@ for ($i=1; $i<=$age; $i=$i+1)
 	echo "õnne!";
 
 ?>
+
+
+<br>
+
+<?php
+
+	echo date(" d F y  H:i:s  l  	"); 
+	
+
+?>
